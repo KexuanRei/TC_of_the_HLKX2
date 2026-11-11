@@ -1,0 +1,567 @@
+﻿[
+  {
+    "engine": "legacy",
+    "file": "安装依赖.bat",
+    "sha256": "92282F1E6688ADB6F8376B3DE4271B14BB36F03A6A01F326D1A3F032601A87EC"
+  },
+  {
+    "engine": "legacy",
+    "file": "表A1中转版使用说明.md",
+    "sha256": "07C9DCE286C4ABFD2526111295A1C714B1C629EA35EF61F4CB95FE8267B3A1F2"
+  },
+  {
+    "engine": "legacy",
+    "file": "关闭旧服务.bat",
+    "sha256": "31CD979D9DE7DC6C1A8E4974EAE501BFC68F349002F36171F837C70E12E83928"
+  },
+  {
+    "engine": "legacy",
+    "file": "清理占用空间.bat",
+    "sha256": "6EAA65572326D2E36EAC03099C0C3EAF34A6FAAD6656A35DEF8CC8414443B827"
+  },
+  {
+    "engine": "legacy",
+    "file": "生成表C.bat",
+    "sha256": "780EC50BBAE8EBCFF3CC54D87E908FB1502DBD3164AC6C4145CA5B5D8376A426"
+  },
+  {
+    "engine": "legacy",
+    "file": "提高读取上限.bat",
+    "sha256": "0BB85DAE02C3319B414919AF42428FA744BE93E52FBEB3D2D6E5096EF9D824FF"
+  },
+  {
+    "engine": "legacy",
+    "file": "apply_high_limit.py",
+    "sha256": "DEE2FBE76147523A6C6DF79B915A3DD9942A0E0EBC54CEA4AC641C7A5F1FDDE1"
+  },
+  {
+    "engine": "legacy",
+    "file": "batch_copy.py",
+    "sha256": "A9390B3EB02D191DF3BD0EEB617F6EC2D2C803E4454C056823E91E0DF259F26B"
+  },
+  {
+    "engine": "legacy",
+    "file": "clipboard_html.py",
+    "sha256": "363470D8AE7830D5D333D11B3E0EF5116B1CAAACCCE8680153B6DB9B99092FE6"
+  },
+  {
+    "engine": "legacy",
+    "file": "config.json",
+    "sha256": "090B109130D8EAACAE2F6A8AB29870A3EA0348D9AA80B97097769FA16423E2C6"
+  },
+  {
+    "engine": "legacy",
+    "file": "copy_range.py",
+    "sha256": "0CB9000FB7AAF86A016857AC55E697BA9F89503111D4BEC81854EB024B63F919"
+  },
+  {
+    "engine": "legacy",
+    "file": "diagnostics.py",
+    "sha256": "C251D660FB5B36E0DF64B537E066A7A873EEFF6AC7890C70D60011F41005DA95"
+  },
+  {
+    "engine": "legacy",
+    "file": "edge_copy.py",
+    "sha256": "848E8948B6F3F70D5E2F6D3F943BE71F3ACACE1F339E437946A2F28D67D48175"
+  },
+  {
+    "engine": "legacy",
+    "file": "excel_clipboard.py",
+    "sha256": "D0526CB6A8E8CD8508116F58EF6A8FD6293B145CA9F4CAA7A4AC75C98065E953"
+  },
+  {
+    "engine": "legacy",
+    "file": "file_source.py",
+    "sha256": "E134893F8B08211FEED2A5D73B1B45BBC6C841F8FEA9F7BE6F9327D05FDAAE57"
+  },
+  {
+    "engine": "legacy",
+    "file": "format_reference.py",
+    "sha256": "8B23F58BEB69AFD28CFD3947F968497461D955E60C434DD686FBF25205DC04BD"
+  },
+  {
+    "engine": "legacy",
+    "file": "hidden_columns.py",
+    "sha256": "7D7085BA03850E7583707DDFBC23021E030B8F9F2FEFFE2C639B9904BF35EF65"
+  },
+  {
+    "engine": "legacy",
+    "file": "install_deps.bat",
+    "sha256": "7D0D3EF98529A041AB25709CDC0B513C411CE7F45FC84234AAE1482F6D9EFB4B"
+  },
+  {
+    "engine": "legacy",
+    "file": "install_success.py",
+    "sha256": "AB29498C610CD2E8DF9F95989C0AE3A8751A1C21A72045DF2D9B960C5144E3BF"
+  },
+  {
+    "engine": "legacy",
+    "file": "make_table_c.py",
+    "sha256": "B3BAC77C4164B231C2AA0455F4040779A7FF7E3049FB5D6787F078F0E08906FF"
+  },
+  {
+    "engine": "legacy",
+    "file": "omitted_columns.py",
+    "sha256": "5D9FBE9EFC8989CF9B7525267E4D642A767A172FD93FEE09EA95B469831AE77C"
+  },
+  {
+    "engine": "legacy",
+    "file": "online_format.py",
+    "sha256": "382D1FD80474C7CDDC8AE7603CD658B7E73EBF7A95EADE4B81159E0698F0D397"
+  },
+  {
+    "engine": "legacy",
+    "file": "page_layout.py",
+    "sha256": "8EDBC2F87837B78085A685119F0608E900EF97612CBE32D4CFA4A41536B21784"
+  },
+  {
+    "engine": "legacy",
+    "file": "paste_source.py",
+    "sha256": "2966F3DCA1196DD89FF239CF97B5289FB5C8DF533FC9AEE83BB702B1CD1584A3"
+  },
+  {
+    "engine": "legacy",
+    "file": "prepare_env.bat",
+    "sha256": "F383D9AE654DB6116382513D513366C08A545ED30364796D84C997DCF17015C3"
+  },
+  {
+    "engine": "legacy",
+    "file": "raise_read_limit.bat",
+    "sha256": "58FE06E19E3350151C59FC07CA203985D40A2400CCD42DC2C9C319F77E48FE80"
+  },
+  {
+    "engine": "legacy",
+    "file": "range_selection.py",
+    "sha256": "45234C960242F14D8536F89038AB24B5EF915AE6254CAD969DDF9028B4FE3783"
+  },
+  {
+    "engine": "legacy",
+    "file": "read_limits.py",
+    "sha256": "7E1E9F5AAA96B4C63FF67284B9A13DC492FC37050FDA80CCEDD179A8B3B5A96B"
+  },
+  {
+    "engine": "legacy",
+    "file": "read_table_a.js",
+    "sha256": "5BA4888071589AC572C0C7E79ED6A0EFB8D94BCE9B46CFE33CC111ED737D4E11"
+  },
+  {
+    "engine": "legacy",
+    "file": "README.md",
+    "sha256": "B43334CD9CA08BEC769850A302DFD71726D0CDCEEBB6302DD01CD12606DF0833"
+  },
+  {
+    "engine": "legacy",
+    "file": "requirements.txt",
+    "sha256": "4A24129B483C5BC663D44FB552AD08AE44394CA35AC2B287304FE6A6199B3E5A"
+  },
+  {
+    "engine": "legacy",
+    "file": "retry_com.py",
+    "sha256": "E8993699EA0E36392FA8D6671B46F4D2DCD64F930F49163F5021C2C8BB2219C7"
+  },
+  {
+    "engine": "legacy",
+    "file": "scheduler.py",
+    "sha256": "F4726A4FC6959A53625E1D88E118D921BF8AF0049FEC5108963C208033292854"
+  },
+  {
+    "engine": "legacy",
+    "file": "start_ui.bat",
+    "sha256": "C3AB941B5975F32182FD608A9BCA0D3AD929B2886FEDD011BDD1C1A27054C6E9"
+  },
+  {
+    "engine": "legacy",
+    "file": "update_excel.py",
+    "sha256": "7F9E60EE333D64EA38957F9CDFDF7E418B77F973FF75200650270BD8537DD831"
+  },
+  {
+    "engine": "legacy",
+    "file": "upload_format.py",
+    "sha256": "5E446445DDAFEBBD08CD4E68F43A6F93F2E9E3FEBEC80A0E128A9AB23BE91EED"
+  },
+  {
+    "engine": "legacy",
+    "file": "upload_layout.py",
+    "sha256": "6563A546D6AFC9757E673322FB5355E73675300FC1106B8310D1BE606E7792EF"
+  },
+  {
+    "engine": "legacy",
+    "file": "upload_runner.py",
+    "sha256": "AC3701A33529E559CA39167CD4D91ADB7531FC24A5602B004C7251259C33D259"
+  },
+  {
+    "engine": "legacy",
+    "file": "upload_table_d.py",
+    "sha256": "98251B7E2CB909E648BDABAFDBB73E3789B05DCF55487CCFD20648C3187C24DC"
+  },
+  {
+    "engine": "legacy",
+    "file": "upload_target.py",
+    "sha256": "F0FF3096FD09097D621499512D6BACFBC1613D6C77C46B252BCC865226E252BF"
+  },
+  {
+    "engine": "legacy",
+    "file": "upload_verify.py",
+    "sha256": "FF78B3B2E557E492EB959BCBC7E734641EC2A6075F2F49268DB4E8EE05DD71A8"
+  },
+  {
+    "engine": "legacy",
+    "file": "web_app.py",
+    "sha256": "F4BAD710B092BE45B9E99F45C8A7821E8A7D04E56D0262610FAD70C1930D75A8"
+  },
+  {
+    "engine": "modern",
+    "file": "安装依赖.bat",
+    "sha256": "92282F1E6688ADB6F8376B3DE4271B14BB36F03A6A01F326D1A3F032601A87EC"
+  },
+  {
+    "engine": "modern",
+    "file": "表A1中转版使用说明.md",
+    "sha256": "75B11C558CF4BB17C4D3B665F510301A2469ACA12ABA73AB286093E7D8C75BFC"
+  },
+  {
+    "engine": "modern",
+    "file": "部署到服务器教程.md",
+    "sha256": "7E4F6FBAA5627B8A72A3A7B364A6E7B60DFDFA667A3C1AC88CA2AEA48AFAAC32"
+  },
+  {
+    "engine": "modern",
+    "file": "服务器启动.bat",
+    "sha256": "BA6E3E5E5891DDD4330A06E83D1287F43A2760D9C4B322663BC7C575EC4DCEE2"
+  },
+  {
+    "engine": "modern",
+    "file": "关闭旧服务.bat",
+    "sha256": "31CD979D9DE7DC6C1A8E4974EAE501BFC68F349002F36171F837C70E12E83928"
+  },
+  {
+    "engine": "modern",
+    "file": "清理占用空间.bat",
+    "sha256": "6EAA65572326D2E36EAC03099C0C3EAF34A6FAAD6656A35DEF8CC8414443B827"
+  },
+  {
+    "engine": "modern",
+    "file": "生成表C.bat",
+    "sha256": "780EC50BBAE8EBCFF3CC54D87E908FB1502DBD3164AC6C4145CA5B5D8376A426"
+  },
+  {
+    "engine": "modern",
+    "file": "提高读取上限.bat",
+    "sha256": "0BB85DAE02C3319B414919AF42428FA744BE93E52FBEB3D2D6E5096EF9D824FF"
+  },
+  {
+    "engine": "modern",
+    "file": "项目介绍文档.md",
+    "sha256": "6E2F6FBDD6669E1D06817F571870B409FDBE61A27E37906605CF3ED621D4FB20"
+  },
+  {
+    "engine": "modern",
+    "file": "activity_log.py",
+    "sha256": "1DE2FA0F8B54C41E6D6F6BBBF8FC071267E7109FA622C47DFE100B23564532CD"
+  },
+  {
+    "engine": "modern",
+    "file": "apply_high_limit.py",
+    "sha256": "DEE2FBE76147523A6C6DF79B915A3DD9942A0E0EBC54CEA4AC641C7A5F1FDDE1"
+  },
+  {
+    "engine": "modern",
+    "file": "batch_copy.py",
+    "sha256": "A9390B3EB02D191DF3BD0EEB617F6EC2D2C803E4454C056823E91E0DF259F26B"
+  },
+  {
+    "engine": "modern",
+    "file": "cell_paste.py",
+    "sha256": "9764357ABA1499ABA68A4E9081515752F0F42493E9C9CB709C7150F8010248C0"
+  },
+  {
+    "engine": "modern",
+    "file": "cell_runner.py",
+    "sha256": "CD263EE2A2F6ABE629C934FAA4999838F6FCC2A28935B99BC507189FE49638AD"
+  },
+  {
+    "engine": "modern",
+    "file": "cell_sync.py",
+    "sha256": "40B48A750E3BA5C88E248D436E9FCFAF08C6E01B2C5CABA035E88A4A7B5A56BB"
+  },
+  {
+    "engine": "modern",
+    "file": "clipboard_html.py",
+    "sha256": "363470D8AE7830D5D333D11B3E0EF5116B1CAAACCCE8680153B6DB9B99092FE6"
+  },
+  {
+    "engine": "modern",
+    "file": "cloud_file_replace.py",
+    "sha256": "DA0A9BA0278BE5A3B1361C088846911559F3147F7388C41F6D662B8B5D6D7AEF",
+    "import_sha256": "E5F9631C0C8D44484915CE60DAC72085172A1A0F4DC16099A7553373A60231D1",
+    "patch": "1.4.3: recover pre-submit browser failures and robust file selection; preserve upload journal",
+    "patch_note": "1.4.8 按真实WPS页面读取悬浮上传面板，避免零高度外层丢失成功提示；本地上传不回读。"
+  },
+  {
+    "engine": "modern",
+    "file": "config.json",
+    "sha256": "A5246DBBE8E4ABD77978A96E0E68C4BEFF09F0D378CE2C96D6B447C32EDEDDF8"
+  },
+  {
+    "engine": "modern",
+    "file": "copy_range.py",
+    "sha256": "0CB9000FB7AAF86A016857AC55E697BA9F89503111D4BEC81854EB024B63F919"
+  },
+  {
+    "engine": "modern",
+    "file": "diagnostics.py",
+    "sha256": "A77B288D4070678E8BA104DEBA1B76D12FDFE1125C9FF7877A8DAC820B13FCEB"
+  },
+  {
+    "engine": "modern",
+    "file": "edge_copy.py",
+    "sha256": "FB4D3BDFF5B78E438F294991D5A7C5FDCB77295F6A650EEC7FABCA6F2E1CA910"
+  },
+  {
+    "engine": "modern",
+    "file": "excel_clipboard.py",
+    "sha256": "39AC795079F1F04B81E0A266F473452916CCB40AC5776279CFBD5DE8C4504CB7"
+  },
+  {
+    "engine": "modern",
+    "file": "file_source.py",
+    "sha256": "E134893F8B08211FEED2A5D73B1B45BBC6C841F8FEA9F7BE6F9327D05FDAAE57"
+  },
+  {
+    "engine": "modern",
+    "file": "filter_headers.py",
+    "sha256": "718F47D0EC37EA01322B91BD96E5303499249B21AF028D469A8DD0019F7C6915"
+  },
+  {
+    "engine": "modern",
+    "file": "filtered_mirror.py",
+    "sha256": "F01858501A4CE0B6DC3F9D84109D2100A1DDFDDFF3924284166861BC111C2398"
+  },
+  {
+    "engine": "modern",
+    "file": "format_reference.py",
+    "sha256": "8B23F58BEB69AFD28CFD3947F968497461D955E60C434DD686FBF25205DC04BD"
+  },
+  {
+    "engine": "modern",
+    "file": "formatted_cells.py",
+    "sha256": "C2BD7CB56E49B67988E6B4487CE1632D248CEC26DEAFEE8AC38DBBD6520C6F7F"
+  },
+  {
+    "engine": "modern",
+    "file": "full_upload_formats.py",
+    "sha256": "BE3300D9AF43A352398360AC388A23D8C43842CC4EEE75119EAF86F5D50A1B73"
+  },
+  {
+    "engine": "modern",
+    "file": "full_upload.py",
+    "sha256": "03FF321A17A6C7D0E5E2751884CA7A11B7F48CF3D1A0F6671DC1CB30C944EE5B"
+  },
+  {
+    "engine": "modern",
+    "file": "hidden_columns.py",
+    "sha256": "7D7085BA03850E7583707DDFBC23021E030B8F9F2FEFFE2C639B9904BF35EF65"
+  },
+  {
+    "engine": "modern",
+    "file": "html_cell_formats.py",
+    "sha256": "7398764B64A1688B9E1726764BBB35F0E6349B9172586C7AC1B0E310B3BCA0F1"
+  },
+  {
+    "engine": "modern",
+    "file": "install_deps.bat",
+    "sha256": "850FAC6FF8412639E777857D0E8485481B6475CE83694FC2B8EC0014BFA01E3E"
+  },
+  {
+    "engine": "modern",
+    "file": "install_success.py",
+    "sha256": "AB29498C610CD2E8DF9F95989C0AE3A8751A1C21A72045DF2D9B960C5144E3BF"
+  },
+  {
+    "engine": "modern",
+    "file": "local_clipboard.py",
+    "sha256": "A6202E3B87A127BF035E52D29086C41F6756EAF56AD6D0BA4CFC8B0E9BEE4695"
+  },
+  {
+    "engine": "modern",
+    "file": "local_mirror.py",
+    "sha256": "96A702D26D32916B980804E7BB1E6D67387CB246D0145EC7F2DD37EFBF7676C3"
+  },
+  {
+    "engine": "modern",
+    "file": "make_table_c.py",
+    "sha256": "53698F71F32E7BC22AB12D760B9AB53F7ED526371D9B2E30903D25FED2533D96"
+  },
+  {
+    "engine": "modern",
+    "file": "omitted_columns.py",
+    "sha256": "5D9FBE9EFC8989CF9B7525267E4D642A767A172FD93FEE09EA95B469831AE77C"
+  },
+  {
+    "engine": "modern",
+    "file": "online_format.py",
+    "sha256": "8824A0D1BA5056FEA6B21FEE076C722053FF51A953A0124DB3F0C73B7F79FDEB"
+  },
+  {
+    "engine": "modern",
+    "file": "overwatch.py",
+    "sha256": "372A13FBEB7CBD6C7DBFC1EA84245589ACFE41B4C8F92CA0E1BA90E5E9001AC0"
+  },
+  {
+    "engine": "modern",
+    "file": "page_layout.py",
+    "sha256": "8EDBC2F87837B78085A685119F0608E900EF97612CBE32D4CFA4A41536B21784"
+  },
+  {
+    "engine": "modern",
+    "file": "paste_menu.py",
+    "sha256": "1AE5EB5475D6E2716941675115D2A58C5FBC4A1C9C3A280C005C5EFC82304111"
+  },
+  {
+    "engine": "modern",
+    "file": "paste_source.py",
+    "sha256": "2966F3DCA1196DD89FF239CF97B5289FB5C8DF533FC9AEE83BB702B1CD1584A3"
+  },
+  {
+    "engine": "modern",
+    "file": "prepare_env.bat",
+    "sha256": "F383D9AE654DB6116382513D513366C08A545ED30364796D84C997DCF17015C3"
+  },
+  {
+    "engine": "modern",
+    "file": "raise_read_limit.bat",
+    "sha256": "58FE06E19E3350151C59FC07CA203985D40A2400CCD42DC2C9C319F77E48FE80"
+  },
+  {
+    "engine": "modern",
+    "file": "range_selection.py",
+    "sha256": "FE4A6E3CFB2F56362AC399B520D3A0597D2F372F339886BF745EA32A5D4296EA"
+  },
+  {
+    "engine": "modern",
+    "file": "read_limits.py",
+    "sha256": "7E1E9F5AAA96B4C63FF67284B9A13DC492FC37050FDA80CCEDD179A8B3B5A96B"
+  },
+  {
+    "engine": "modern",
+    "file": "read_table_a.js",
+    "sha256": "5BA4888071589AC572C0C7E79ED6A0EFB8D94BCE9B46CFE33CC111ED737D4E11"
+  },
+  {
+    "engine": "modern",
+    "file": "README.md",
+    "sha256": "5DB6168F6AA7CA3C8AA2683FF141CA6BD9BE06D35AB9ECBBD74B1E820AA2F87B"
+  },
+  {
+    "engine": "modern",
+    "file": "requirements.txt",
+    "sha256": "E1CBACE124BD43430B5CA633F0A19F6DC2D865E0EC0629601ACD76A0E7D14AAC"
+  },
+  {
+    "engine": "modern",
+    "file": "retry_com.py",
+    "sha256": "E8993699EA0E36392FA8D6671B46F4D2DCD64F930F49163F5021C2C8BB2219C7"
+  },
+  {
+    "engine": "modern",
+    "file": "scheduler.py",
+    "sha256": "64BD67AF83C7142BCDEE97DFD55F2DCA630C86A556F1F6FED9338045C073A2B2"
+  },
+  {
+    "engine": "modern",
+    "file": "source_file.py",
+    "sha256": "326440B5F35CBA2E0BD9DFF68C7E071D68D8D372094CC5378433E2ADCD3DED50"
+  },
+  {
+    "engine": "modern",
+    "file": "start_ui.bat",
+    "sha256": "C3AB941B5975F32182FD608A9BCA0D3AD929B2886FEDD011BDD1C1A27054C6E9"
+  },
+  {
+    "engine": "modern",
+    "file": "sync_columns.py",
+    "sha256": "2DD4B5C991C18A9A0B1BF99ABD64DF7A52D33C0E7448CE66BFA08962F9C67A8A"
+  },
+  {
+    "engine": "modern",
+    "file": "sync_engine.py",
+    "sha256": "C3BA67D6AE958E5D1124045D5E84D08CF901B9956F88A29E3068EFB05D1D413B"
+  },
+  {
+    "engine": "modern",
+    "file": "sync_runner.py",
+    "sha256": "9322648C074D8DD1A43FC23294B351B7B1442E0402D8DB34A3041F179A18A9BE"
+  },
+  {
+    "engine": "modern",
+    "file": "table_b_compare.py",
+    "sha256": "05CF597C331D86E884BBA716151EBA359E3293C1BB1B0402ADE1E485B3790961"
+  },
+  {
+    "engine": "modern",
+    "file": "table_c_download.py",
+    "sha256": "4A6E6A5BE483A4A2829B46178C05D54210B2E280AD28723B0FC44F892C5E24B9"
+  },
+  {
+    "engine": "modern",
+    "file": "table_c_styles.py",
+    "sha256": "59932157466BD6E2F4E595B9DFF2DDB76353099A7FF4BD0027D6769D70EC40B4"
+  },
+  {
+    "engine": "modern",
+    "file": "update_excel.py",
+    "sha256": "7F9E60EE333D64EA38957F9CDFDF7E418B77F973FF75200650270BD8537DD831"
+  },
+  {
+    "engine": "modern",
+    "file": "upload_format.py",
+    "sha256": "7C1CA375457B161B8FD3AFE4ABB405B3B9050C068CEFAB313DCF3C4462E5D864"
+  },
+  {
+    "engine": "modern",
+    "file": "upload_layout.py",
+    "sha256": "B2B85E0C44EC205D66546C3F98026B8DFB47540014D3687E110DAB2E9D5324B7"
+  },
+  {
+    "engine": "modern",
+    "file": "upload_runner.py",
+    "sha256": "0763EE7C9F01AEE274922C0508D6B8F3ED59536A2A145DA683C7237815A1CB88"
+  },
+  {
+    "engine": "modern",
+    "file": "upload_table_c.py",
+    "sha256": "DFF9A7F054A156B4B68613361F96F750420F945CB2091018D47CDD978A9FB31A"
+  },
+  {
+    "engine": "modern",
+    "file": "upload_target.py",
+    "sha256": "615017BE1F491FE800A44CA00D73C160762FC5D42AF12CEA7DDC69276F75ABE8"
+  },
+  {
+    "engine": "modern",
+    "file": "upload_verify.py",
+    "sha256": "AEFA8F7962F2E2E667D246A58A9163499C949B6E740BC4DFA2FA1D0563A0BEAC"
+  },
+  {
+    "engine": "modern",
+    "file": "values_workbook.py",
+    "sha256": "851C5900B7503427494F76DBB1A6BE01D402CDAB5EA0C8630EE0AD5CCF7201FD",
+    "import_sha256": "437005C683F90B69E1D629429C1E99F40A68E6829BAB272E18C6D2D1C5608C56",
+    "patch_note": "1.4.5 核心文档保存属性兼容校验，以及待核验阶段失效浏览器连接恢复。"
+  },
+  {
+    "engine": "modern",
+    "file": "watch.py",
+    "sha256": "47B6C4B1D38991FAE4620F3B8EC98D15885494C9FD2754DB1639BFC32EE28D59"
+  },
+  {
+    "engine": "modern",
+    "file": "watchdog.py",
+    "sha256": "27630ABC2E4B5BCCE98115CDBBB6A99FE31638BB8B012B30DF9747B5A0E0A242"
+  },
+  {
+    "engine": "modern",
+    "file": "web_app.py",
+    "sha256": "B6FD230EBF43BDBFF02869E97A80F76704096F924BC4F7699A93D7C933D6FCFC"
+  }
+]
